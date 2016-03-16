@@ -1,0 +1,28 @@
+name: PILOTS DIRECT
+favicon: null
+layout_spectrum: 0.9245286313816905
+typography_spectrum: 0.1432692774105817
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.31817380036227405
+  lightness: 0.48245030315592885
+  saturation: 0.42904998641461134
+  rhythmicContrast: 0.8434803371783346
+purpose: []
