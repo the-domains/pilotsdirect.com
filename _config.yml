@@ -1,7 +1,7 @@
 name: PILOTS DIRECT
 favicon: null
-layout_spectrum: 0.9245286313816905
-typography_spectrum: 0.1432692774105817
+layout_spectrum: 0.00132
+typography_spectrum: 0.88617
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#164690'
     - '#5f90d3'
     - '#081362'
-  brandStrength: 0.31817380036227405
+  brandStrength: 0.3125
   lightness: 0.48245030315592885
   saturation: 0.42904998641461134
   rhythmicContrast: 0.8434803371783346
